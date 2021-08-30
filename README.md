@@ -1,3 +1,5 @@
+![](https://i.imgur.com/xG74tOh.png)
+
 # Desafio-Backend-Modulo-02
  RESTful API para um sistema bancário 
  

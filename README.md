@@ -1,4 +1,4 @@
-# desafio-backend-modulo-02
+# Desafio-Backend-Modulo-02
  RESTful API para um sistema bancário 
  
  ## Desafio proposto:
